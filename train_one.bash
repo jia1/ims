@@ -28,5 +28,5 @@ $JAVA_HOME/java -mx1900m -cp $CP sg.edu.nus.comp.nlp.ims.implement.CTrainModel \
     -ssm $libdir/EnglishSD.bin.gz $1 $2 $3 \
     -f sg.edu.nus.comp.nlp.ims.feature.CFeatureExtractorCombination \
     -s2 $s2 -c2 $c2 \
-    # -type directory
+    -type directory
 
