@@ -1,0 +1,437 @@
+Oct 04, 2017 11:56:30 AM net.didion.jwnl.util.MessageLog doLog
+INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@37bba400
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/now.xml
+now.r
+.*
+optimization finished, #iter = 12
+Objective value = -6.149178
+nSV = 432
+.**
+optimization finished, #iter = 13
+Objective value = -6.168495
+nSV = 432
+*
+optimization finished, #iter = 7
+Objective value = -1.798165
+nSV = 267
+*
+optimization finished, #iter = 7
+Objective value = -1.068302
+nSV = 257
+*
+optimization finished, #iter = 8
+Objective value = -1.084169
+nSV = 251
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/just.xml
+just.r
+.*
+optimization finished, #iter = 12
+Objective value = -2.704210
+nSV = 292
+*
+optimization finished, #iter = 7
+Objective value = -2.144435
+nSV = 268
+*.
+optimization finished, #iter = 10
+Objective value = -4.100355
+nSV = 308
+*
+optimization finished, #iter = 9
+Objective value = -1.866188
+nSV = 234
+*
+optimization finished, #iter = 6
+Objective value = -0.891577
+nSV = 212
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/however.xml
+however.r
+*
+optimization finished, #iter = 7
+Objective value = -1.180262
+nSV = 156
+*
+optimization finished, #iter = 8
+Objective value = -0.355312
+nSV = 126
+*
+optimization finished, #iter = 7
+Objective value = -0.926953
+nSV = 145
+*
+optimization finished, #iter = 6
+Objective value = -0.206776
+nSV = 101
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/often.xml
+often.r
+*
+optimization finished, #iter = 6
+Objective value = -0.250489
+nSV = 126
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/back.xml
+back.r
+*
+optimization finished, #iter = 7
+Objective value = -1.573011
+nSV = 152
+*
+optimization finished, #iter = 7
+Objective value = -2.259064
+nSV = 165
+*
+optimization finished, #iter = 7
+Objective value = -1.224546
+nSV = 153
+*
+optimization finished, #iter = 6
+Objective value = -0.844641
+nSV = 141
+*
+optimization finished, #iter = 6
+Objective value = -0.938287
+nSV = 133
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/out.xml
+out.r
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/much.xml
+much.r
+*
+optimization finished, #iter = 6
+Objective value = -0.696284
+nSV = 112
+*.
+optimization finished, #iter = 10
+Objective value = -1.067869
+nSV = 120
+*.
+optimization finished, #iter = 10
+Objective value = -0.574099
+nSV = 113
+*
+optimization finished, #iter = 6
+Objective value = -0.481495
+nSV = 116
+*
+optimization finished, #iter = 6
+Objective value = -0.481580
+nSV = 109
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/more.xml
+more.r
+*.
+optimization finished, #iter = 10
+Objective value = -1.318400
+nSV = 247
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/there.xml
+there.r
+*
+optimization finished, #iter = 6
+Objective value = -0.644825
+nSV = 128
+*
+optimization finished, #iter = 6
+Objective value = -0.507401
+nSV = 119
+*
+optimization finished, #iter = 7
+Objective value = -0.442189
+nSV = 115
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/yet.xml
+yet.r
+
+optimization finished, #iter = 5
+Objective value = -0.372286
+nSV = 40
+
+optimization finished, #iter = 4
+Objective value = -0.430956
+nSV = 40
+
+optimization finished, #iter = 5
+Objective value = -0.330055
+nSV = 40
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/far.xml
+far.r
+
+optimization finished, #iter = 5
+Objective value = -1.003744
+nSV = 102
+
+optimization finished, #iter = 6
+Objective value = -0.892444
+nSV = 104
+*
+optimization finished, #iter = 6
+Objective value = -0.761134
+nSV = 104
+*
+optimization finished, #iter = 6
+Objective value = -0.346350
+nSV = 97
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/up.xml
+up.r
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/even.xml
+even.r
+*
+optimization finished, #iter = 7
+Objective value = -1.063240
+nSV = 262
+*
+optimization finished, #iter = 8
+Objective value = -0.680346
+nSV = 257
+*
+optimization finished, #iter = 6
+Objective value = -0.662496
+nSV = 223
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/away.xml
+away.r
+
+optimization finished, #iter = 5
+Objective value = -0.688587
+nSV = 84
+
+optimization finished, #iter = 6
+Objective value = -1.151620
+nSV = 86
+*
+optimization finished, #iter = 6
+Objective value = -0.808708
+nSV = 83
+
+optimization finished, #iter = 5
+Objective value = -0.236733
+nSV = 79
+*
+optimization finished, #iter = 6
+Objective value = -0.303697
+nSV = 79
+
+optimization finished, #iter = 5
+Objective value = -0.231938
+nSV = 79
+*
+optimization finished, #iter = 6
+Objective value = -0.281709
+nSV = 78
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/here.xml
+here.r
+*
+optimization finished, #iter = 9
+Objective value = -2.853933
+nSV = 241
+*
+optimization finished, #iter = 8
+Objective value = -0.800431
+nSV = 185
+*
+optimization finished, #iter = 9
+Objective value = -2.561888
+nSV = 240
+*
+optimization finished, #iter = 6
+Objective value = -0.310982
+nSV = 180
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/then.xml
+then.r
+.*
+optimization finished, #iter = 12
+Objective value = -5.218186
+nSV = 426
+*
+optimization finished, #iter = 8
+Objective value = -3.193446
+nSV = 350
+.*
+optimization finished, #iter = 12
+Objective value = -4.021146
+nSV = 377
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/once.xml
+once.r
+*
+optimization finished, #iter = 8
+Objective value = -1.286648
+nSV = 111
+*
+optimization finished, #iter = 7
+Objective value = -0.862743
+nSV = 108
+*
+optimization finished, #iter = 9
+Objective value = -0.907031
+nSV = 104
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/rather.xml
+rather.r
+
+optimization finished, #iter = 5
+Objective value = -0.688860
+nSV = 111
+*
+optimization finished, #iter = 6
+Objective value = -0.315079
+nSV = 97
+
+optimization finished, #iter = 5
+Objective value = -0.708269
+nSV = 111
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/well.xml
+well.r
+...................*.*
+optimization finished, #iter = 202
+Objective value = -3.346122
+nSV = 132
+...................**
+optimization finished, #iter = 194
+Objective value = -3.072540
+nSV = 130
+*
+optimization finished, #iter = 7
+Objective value = -0.385702
+nSV = 117
+*
+optimization finished, #iter = 6
+Objective value = -0.546419
+nSV = 121
+*
+optimization finished, #iter = 6
+Objective value = -0.423692
+nSV = 116
+*
+optimization finished, #iter = 6
+Objective value = -0.492935
+nSV = 117
+*
+optimization finished, #iter = 5
+Objective value = -0.319378
+nSV = 118
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/most.xml
+most.r
+.*
+optimization finished, #iter = 12
+Objective value = -1.789213
+nSV = 211
+.*
+optimization finished, #iter = 11
+Objective value = -1.802067
+nSV = 212
+*
+optimization finished, #iter = 6
+Objective value = -0.249700
+nSV = 128
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/never.xml
+never.r
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/so.xml
+so.r
+.*
+optimization finished, #iter = 12
+Objective value = -2.449867
+nSV = 354
+*
+optimization finished, #iter = 9
+Objective value = -1.999335
+nSV = 309
+*.
+optimization finished, #iter = 10
+Objective value = -1.435142
+nSV = 276
+*
+optimization finished, #iter = 7
+Objective value = -0.729178
+nSV = 244
+*
+optimization finished, #iter = 5
+Objective value = -0.390995
+nSV = 231
+*
+optimization finished, #iter = 7
+Objective value = -0.586181
+nSV = 239
+*
+optimization finished, #iter = 7
+Objective value = -0.450827
+nSV = 225
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/very.xml
+very.r
+*
+optimization finished, #iter = 6
+Objective value = -0.753837
+nSV = 186
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/only.xml
+only.r
+.*
+optimization finished, #iter = 12
+Objective value = -5.070464
+nSV = 456
+.*
+optimization finished, #iter = 13
+Objective value = -5.071595
+nSV = 465
+*
+optimization finished, #iter = 6
+Objective value = -0.475311
+nSV = 242
+*
+optimization finished, #iter = 6
+Objective value = -0.832738
+nSV = 269
+*
+optimization finished, #iter = 6
+Objective value = -0.618823
+nSV = 236
+*
+optimization finished, #iter = 7
+Objective value = -0.496484
+nSV = 250
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/too.xml
+too.r
+*
+optimization finished, #iter = 7
+Objective value = -1.094573
+nSV = 215
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/still.xml
+still.r
+*
+optimization finished, #iter = 8
+Objective value = -1.899048
+nSV = 246
+*
+optimization finished, #iter = 6
+Objective value = -1.306669
+nSV = 215
+*
+optimization finished, #iter = 6
+Objective value = -1.130651
+nSV = 234
+*
+optimization finished, #iter = 6
+Objective value = -0.406086
+nSV = 179
+done
+/home/limjiayee/ims_0.9.2/../omsti-data/adv/always.xml
+always.r
+done
+63.98user 11.52system 1:06.04elapsed 114%CPU (0avgtext+0avgdata 702968maxresident)k
+33056inputs+3680outputs (9major+236015minor)pagefaults 0swaps

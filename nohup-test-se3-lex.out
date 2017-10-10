@@ -1,0 +1,175 @@
+Oct 10, 2017 12:26:45 PM net.didion.jwnl.util.MessageLog doLog
+INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@4d405ef7
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/difficulty.xml
+difficulty.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/add.xml
+add.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/shelter.xml
+shelter.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/image.xml
+image.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/receive.xml
+receive.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/suspend.xml
+suspend.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/decide.xml
+decide.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/organization.xml
+organization.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/rule.xml
+rule.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/eat.xml
+eat.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/atmosphere.xml
+atmosphere.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/talk.xml
+talk.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/miss.xml
+miss.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/difference.xml
+difference.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/use.xml
+use.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/degree.xml
+degree.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/disc.xml
+disc.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/different.xml
+different.a
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/party.xml
+party.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/treat.xml
+treat.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/argument.xml
+argument.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/encounter.xml
+encounter.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/climb.xml
+climb.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/interest.xml
+interest.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/paper.xml
+paper.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/watch.xml
+watch.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/expect.xml
+expect.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/provide.xml
+provide.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/hear.xml
+hear.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/ask.xml
+ask.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/important.xml
+important.a
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/write.xml
+write.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/express.xml
+express.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/operate.xml
+operate.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/activate.xml
+activate.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/lose.xml
+lose.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/note.xml
+note.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/sort.xml
+sort.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/plan.xml
+plan.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/win.xml
+win.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/audience.xml
+audience.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/mean.xml
+mean.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/smell.xml
+smell.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/arm.xml
+arm.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/performance.xml
+performance.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/judgment.xml
+judgment.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/solid.xml
+solid.a
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/wash.xml
+wash.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/remain.xml
+remain.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/begin.xml
+begin.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/bank.xml
+bank.n
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/hot.xml
+hot.a
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/simple.xml
+simple.a
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/appear.xml
+appear.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/produce.xml
+produce.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/play.xml
+play.v
+writing results
+testing /home/limjiayee/ims_0.9.2/../se3/1-lexical-sample/processed/test/source.xml
+source.n
+writing results
+35.05user 11.39system 0:38.44elapsed 120%CPU (0avgtext+0avgdata 664644maxresident)k
+15128inputs+816outputs (0major+129176minor)pagefaults 0swaps

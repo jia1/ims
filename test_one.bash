@@ -26,8 +26,9 @@ if [ $# -ge 4 ]; then
         $testfile $modeldir $modeldir $savedir \
         -is $4 \
         -f sg.edu.nus.comp.nlp.ims.feature.CFeatureExtractorCombination
+        -type directory
 else
-    $JAVA_HONME/java -mx1900m -cp $CP sg.edu.nus.comp.nlp.ims.implement.CTester \
+    $JAVA_HOME/java -mx1900m -cp $CP sg.edu.nus.comp.nlp.ims.implement.CTester \
         -ptm $libdir/tag.bin.gz \
         -tagdict $libdir/tagdict.txt \
         -ssm $libdir/EnglishSD.bin.gz \
@@ -35,6 +36,6 @@ else
         -r sg.edu.nus.comp.nlp.ims.io.CResultWriter \
         $testfile $modeldir $modeldir $savedir \
         -f sg.edu.nus.comp.nlp.ims.feature.CFeatureExtractorCombination \
-        # -type directory
+        -type directory
 fi
 
