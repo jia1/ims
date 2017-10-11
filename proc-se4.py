@@ -1,0 +1,27 @@
+import os
+import sys
+
+args = sys.argv
+
+if len(args) != 2:
+    exit('Usage: python proc.py result_file/directory')
+
+result_file = os.path.abspath(args[1])
+
+def process_one(result_file):
+    processed_lines = []
+    with open(result_file, 'r') as f:
+        word_id = '.'.join(result_file.split('/')[-1].split('.')[:2])
+        for line in f:
+            split_line = line.split(' ')
+            if len(split_line) > 0:
+                split_line[0] = word_id
+            processed_lines.append(' '.join(split_line))
+    with open(result_file, 'w') as g:
+        g.writelines(processed_lines)
+
+if os.path.isdir(result_file):
+    for f in os.listdir(result_file):
+        process_one(os.path.join(result_file, f))
+else:
+    process_one(result_file)
