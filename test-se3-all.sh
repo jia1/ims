@@ -1,0 +1,2 @@
+# nohup time ./testFine.bash ../models-acl2010 ../se3/2-all-words/test/english-all-words.xml ../se3/2-all-words/test/zhong-zhi-file/se3.lexelt ../results/se3-all.result ../WordNet-1.7.1/dict/index.sense &> nohup-test-se3-all.out &
+nohup time ./testFine.bash ../models-omsti ../se3/2-all-words/test/english-all-words.xml ../se3/2-all-words/test/zhong-zhi-file/se3.lexelt ../results/se3-all-omsti.result ../WordNet-1.7.1/dict/index.sense &> nohup-test-omsti-se3-all.out &
