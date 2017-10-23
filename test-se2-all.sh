@@ -1,2 +1,3 @@
 # nohup time ./testFine.bash ../models-acl2010 ../se2/2-all-words/test/eng-all-words.test.xml ../se2/2-all-words/test/zhong-zhi-files/se2.lexelt ../results/se2-all.result ../WordNet-1.7.1/dict/index.sense &> nohup-test-se2-all.out &
-nohup time ./testFine.bash ../models-omsti ../se2/2-all-words/test/eng-all-words.test.xml ../se2/2-all-words/test/zhong-zhi-files/se2.lexelt ../results/se2-all-omsti.result ../WordNet-1.7.1/dict/index.sense &> nohup-test-omsti-se2-all.out &
+# nohup time ./testFine.bash ../models-omsti ../se2/2-all-words/test/eng-all-words.test.xml ../se2/2-all-words/test/zhong-zhi-files/se2.lexelt ../results/se2-all-omsti.result ../WordNet-1.7.1/dict/index.sense &> nohup-test-omsti-se2-all.out &
+nohup time ./testFine.bash ../models-MUN-SC-wn30 ../se2/2-all-words/test/eng-all-words.test.xml ../se2/2-all-words/test/zhong-zhi-files/se2.lexelt ../results/se2-all-omsti-pre.result ../WordNet-1.7.1/dict/index.sense &> nohup-test-omsti-pre-se2-all.out &
